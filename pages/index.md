@@ -4,16 +4,12 @@
 
 layout: Post
 permalink: /
-title: Welcome
+# title: Welcome
 ---
 
-Hello, I am Sahil Khan. I design products, build things, and enjoy brewing coffee and playing tennis
+Hello, I'm **Sahil Khan**.
 
-This digital garden is where I document ideas, experiments, design systems, AI workflows, books, coffee brewing, productivity, and everything I'm learning.
+I design products, build things, brew coffee, and occasionally act in films.
 
-## Explore
-
-- [Notes](/notes)
-- [About](/about)
-- [Blog](/blog)
+This is a safe space, where I share ideas, experiments, design systems, AI workflows, books, coffee, productivity, and everything I'm learning along the way.
 

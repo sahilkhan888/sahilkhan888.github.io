@@ -1,9 +1,12 @@
 ---
-title: "Tetsu Kasuya 4:6 method"
+title: "Tetsu Kasuya 4:6 pour over method"
 feed: show
 date: 2026-08-06
 ---
 
-I tried this method and this was the most delicious cup of coffee i have ever made. I used maverick and farmer beans for this
+Grind size: 25 clicks on my timemore c3s (Tetsu mentions the coarser the better for this method) <br>
+coffee: 20gm, water: 300ml (1:15 ratio) <br/>
 
-[[Notes]]
+Refer this video for technique : [Tetsu Kasuya 4:6 method](https://youtu.be/wSHE7pdLZTU).
+
+I have been testing different methods of pour over for the past few weeks and this cup really blew me away. I could get the notes clearly, the cup was very well balanced and pleasant. Highly recommended.
