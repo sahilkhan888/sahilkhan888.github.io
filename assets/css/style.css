@@ -68,7 +68,7 @@ body {
   width: 100%;
   min-height: 100vh;
   display: flex;
-  align-items: flex-start;
+  align-items: stretch;
   justify-content: center;
   padding-top: var(--space-xl);
 }
@@ -78,6 +78,8 @@ body {
   width: 100%;
   margin: 0 auto;
   padding: 0 var(--space-xl) var(--space-xl);
+  display: flex;
+  flex-direction: column;
 }
 
 .nav {
@@ -328,7 +330,8 @@ a:hover {
 }
 
 .footer {
-  margin-top: var(--space-xl);
+  margin-top: auto;
+  padding-top: var(--space-xl);
   text-align: center;
   display: flex;
   align-items: center;
