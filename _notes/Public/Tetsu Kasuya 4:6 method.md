@@ -5,8 +5,9 @@ feed: show
 date: 2026-08-06
 ---
 
-Grind size: 25 clicks on my timemore c3s (Tetsu mentions the coarser the better for this method) <br>
+Grind size: 25 clicks on my timemore c3s<br>
 coffee: 20gm, water: 300ml (1:15 ratio) <br/>
+[[Beans]] : Maverick and farmer - say hello to mellow
 
 Refer this video for technique : [Tetsu Kasuya 4:6 method](https://youtu.be/wSHE7pdLZTU).
 

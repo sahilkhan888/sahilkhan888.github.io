@@ -618,11 +618,15 @@ td {
   margin-top: 2px;
 }
 
+h1:has(+ .note-description) {
+  margin-bottom: var(--space-xs);
+}
+
 .note-description {
   color: var(--text-muted);
   font-size: var(--scale-sm);
   font-weight: 400;
-  margin-bottom: var(--space-sm);
+  margin-bottom: var(--space-lg);
 }
 
 .list-feed {
