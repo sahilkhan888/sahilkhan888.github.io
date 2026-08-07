@@ -437,6 +437,7 @@ li {
 
 strong {
   font-weight: 600;
+  color: var(--title);
 }
 
 em {
@@ -590,11 +591,6 @@ td {
 .notelist-feed {
   border-bottom: 1px solid var(--border);
   padding: var(--space-sm) 0;
-  transition: background 0.3s ease;
-}
-
-.notelist-feed:hover {
-  background: var(--bg2);
 }
 
 .notelist-feed a {
@@ -603,17 +599,30 @@ td {
 }
 
 .notelist-feed p {
-  color: var(--title);
+  color: var(--text-muted);
   margin-bottom: 0;
   font-size: var(--scale-base);
   font-weight: var(--weight-medium);
+  transition: color 0.2s ease;
 }
 
-.notelist-feed p.feed-description {
+.notelist-feed:hover p {
+  color: var(--title);
+}
+
+.notelist-feed p.feed-description,
+.notelist-feed:hover p.feed-description {
   color: var(--text-muted);
   font-size: var(--scale-sm);
   font-weight: 400;
   margin-top: 2px;
+}
+
+.note-description {
+  color: var(--text-muted);
+  font-size: var(--scale-sm);
+  font-weight: 400;
+  margin-bottom: var(--space-sm);
 }
 
 .list-feed {
