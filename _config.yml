@@ -57,11 +57,13 @@ menu:
 
 # Footer
 footer:
-  copyright: "Simple and slow living"
-  credits:
-    enabled: true
-    url: "/credits"
-    text: "Credits"
+  menu:
+    - title: "About"
+      url: "/about"
+    - title: "Everything"
+      url: "/everything"
+    - title: "Projects"
+      url: "/projects"
 
 # Collections
 collections:

@@ -11,5 +11,5 @@ Hello, I'm **Sahil Khan**.
 
 I design products, build things, brew coffee, and occasionally act in films.
 
-This is a safe space, where I share ideas, experiments, design systems, AI workflows, books, coffee, productivity, and everything I'm learning along the way.
+This is a safe space, where I share ideas, experiments, projects, books, coffee, and everything I'm learning along the way.
 
