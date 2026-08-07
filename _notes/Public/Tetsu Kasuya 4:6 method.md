@@ -1,5 +1,6 @@
 ---
 title: "Tetsu Kasuya 4:6 pour over method"
+description: "Grind, ratio, and technique for the pour over that finally clicked."
 feed: show
 date: 2026-08-06
 ---

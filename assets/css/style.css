@@ -4,6 +4,7 @@
   --bg: rgb(255, 252, 240);
   --bg2: rgb(242, 240, 229);
   --text: #6f6e69;
+  --text-muted: #85847d;
   --title: #343331;
   --brand: rgb(58, 169, 159);
   --border: rgb(230, 228, 217);
@@ -34,6 +35,7 @@
   --bg: #18181c;
   --bg2: #23232a;
   --text: #d6d6d6;
+  --text-muted: #9b9ba3;
   --title: #fff;
   --brand: #3ac9b0;
   --border: #33343a;
@@ -605,6 +607,13 @@ td {
   margin-bottom: 0;
   font-size: var(--scale-base);
   font-weight: var(--weight-medium);
+}
+
+.notelist-feed p.feed-description {
+  color: var(--text-muted);
+  font-size: var(--scale-sm);
+  font-weight: 400;
+  margin-top: 2px;
 }
 
 .list-feed {
