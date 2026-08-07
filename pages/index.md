@@ -9,7 +9,6 @@ permalink: /
 
 Hello, I'm **Sahil Khan**.
 
-I design products, build things, brew coffee, and occasionally act in films.
+I design products, build things, brew coffee, and act in films.
 
 This is a safe space, where I share ideas, experiments, projects, books, coffee, and everything I'm learning along the way.
-

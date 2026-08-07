@@ -5,4 +5,4 @@ content-type: "static"
 permalink: /about
 ---
 
-I am Sahil, i am a design engineer, i love making and building new things, brewing and experimenting with coffee
+I am Sahil, i work as a design engineer, i love making and building new things, brewing coffee, playing tennis and acting
